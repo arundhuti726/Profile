@@ -13,7 +13,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width=400 src=["(https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe7%2F26%2Fc7%2Fe726c74ac081eed50feee1433d12c998.gif&tbnid=tkD88475CNPNmM&vet=10CBUQxiAoBmoXChMIkLe2m9zbhwMVAAAAAB0AAAAAEDQ..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--717268678168057748%2F&docid=6zN6nteKRMUD4M&w=800&h=600&itg=1&q=Animated%20Coding%20GIF%20girl&ved=0CBUQxiAoBmoXChMIkLe2m9zbhwMVAAAAAB0AAAAAEDQ)"]>
+<img align="right" alt="coding" width=400 src="https://github.com/arundhuti726/Profile/blob/main/coding.gif">
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arundhutichowdhury/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arundhutichowdhury/" height="30" width="40" /></a>
